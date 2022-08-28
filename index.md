@@ -1,3 +1,12 @@
+# Shou-Fu's First CS193 Homework
+- CS193 is helpful towards understanding the tools in CS180.
+- It's taught by nice TAs. 
+- It only meets once per week.
+- It has a fun attendance quiz.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
